@@ -14,9 +14,9 @@ gallery.forEach(function (carImg) {
     `<figure>
       <img src='${carImg.pathURL}' alt='${carImg.title}' width='${carImg.width}' height='${carImg.height}'>
       <figcaption>
-      <a href='${carImg.linkURL}'>${carImg.title}</a>
+      <a href='${carImg.linkURL}' target='_blank'>${carImg.title}</a>
       <p class ="author">
-      <a href='${carImg.creditURL}'>${carImg.credit}</a>
+      <a href='${carImg.creditURL}' target='_blank'>${carImg.credit}</a>
       </p>
       </figcaption>
       <p>${carImg.description}</p>

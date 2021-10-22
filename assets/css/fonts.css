@@ -20,7 +20,7 @@ figcaption, p {
 .author {
   /* clamp(MIN, VAL, MAX) */
   font-size: clamp(1rem, 1.5vw, 1.4rem);
-  font-style: italic
+  font-style: italic;
 }
 
 /* Footer */

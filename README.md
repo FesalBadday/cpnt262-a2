@@ -4,9 +4,9 @@
 
 **Author :** Fesal Badday
 
-**Repo :** [Github Repo](https://github.com/FesalBadday/cpnt262-a2)
+**Repo :** [Github Repo](https://github.com/FesalBadday/dynamic-image-gallery)
 
-**Site :** [Github Pages](https://FesalBadday.github.io/cpnt262-a2)
+**Site :** [Github Pages](https://FesalBadday.github.io/dynamic-image-gallery)
 
 **Information :**
 

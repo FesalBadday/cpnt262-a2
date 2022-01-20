@@ -1,4 +1,4 @@
-# CPNT 262 Assignment 2 - Dynamic Image Gallery
+# Dynamic Image Gallery
 
 ---
 
